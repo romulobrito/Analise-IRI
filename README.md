@@ -20,14 +20,11 @@ Este projeto implementa uma análise completa do International Roughness Index (
 ## 📁 Estrutura do Projeto
 \`\`\`
 projeto/
-├── data/                    # Dados brutos e processados
-│   ├── excel_files/        # Arquivos Excel com medições
-│   └── pdf_files/         # Documentos PDF com especificações
-├── notebooks/              # Jupyter notebooks
-│   └── puc_ml_spt1.ipynb  # Notebook principal
-├── src/                    # Código fonte
-├── requirements.txt        # Dependências
-└── README.md              # Este arquivo
+├── data/ # Dados brutos e processados
+├── notebooks/ # Jupyter notebooks
+├── src/ # Código fonte
+├── requirements.txt # Dependências
+└── README.md # Este arquivo
 \`\`\`
 
 ## 🚀 Como Usar
