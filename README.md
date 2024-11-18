@@ -21,5 +21,8 @@ Este projeto implementa uma análise completa do International Roughness Index (
 2. Instale as dependências
 3. Execute o notebook principal
 
+## Link Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romulobrito/Analise-IRI/blob/main/puc_ml_spt1.ipynb)
+
 ## Autor
 Romulo Brito
