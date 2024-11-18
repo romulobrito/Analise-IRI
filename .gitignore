@@ -77,3 +77,6 @@ temp/
 *.tar
 *.gz
 
+# Exceto imagens específicas do projeto
+!data/trecho_tabela_dado_bruto.png
+!*/trecho_tabela_dado_bruto.png
