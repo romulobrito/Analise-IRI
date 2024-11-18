@@ -22,4 +22,4 @@ Este projeto implementa uma análise completa do International Roughness Index (
 3. Execute o notebook principal
 
 ## Autor
-Rômulo Brito
+Romulo Brito
