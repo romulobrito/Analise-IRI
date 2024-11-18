@@ -54,7 +54,21 @@ projeto/
 3. Execute o notebook:
    - Abra \`notebooks/puc_ml_spt1.ipynb\` no Jupyter
 
-### No Google Colab
+## 🚀 Como Usar no Google Colab
+
+### Opção 1: Via GitHub
+1. Clique no badge do Colab
+2. O notebook será aberto e os dados serão carregados automaticamente
+
+### Opção 2: Via Google Drive
+1. Faça upload dos arquivos da pasta `data` para seu Google Drive
+2. Monte o Drive no Colab quando solicitado
+3. Os dados serão carregados do seu Drive
+
+### Arquivos Necessários
+- `data/Cópia de 500-IMT-BR080GO - INVENTARIO km 114.00 ao km 181.00_copia.xlsx`
+- `data/700_IMT_BR153TO_BR153GO_BR080GO_BR414GO_RA23_R00.pdf`
+  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romulobrito/Analise-IRI/blob/main/notebooks/puc_ml_spt1.ipynb)
 
 ## 📊 Resultados
