@@ -69,7 +69,9 @@ projeto/
 - `data/Cópia de 500-IMT-BR080GO - INVENTARIO km 114.00 ao km 181.00_copia.xlsx`
 - `data/700_IMT_BR153TO_BR153GO_BR080GO_BR414GO_RA23_R00.pdf`
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romulobrito/Analise-IRI/blob/main/notebooks/puc_ml_spt1.ipynb)
+# Atualizar para a versão mais recente do repositório
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romulobrito/Analise-IRI/blob/main/notebooks/puc_ml_spt1.ipynb?flush_cache=true)
+
 
 ## 📊 Resultados
 - Identificação de 168 trechos críticos
