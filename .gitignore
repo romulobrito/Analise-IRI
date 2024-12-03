@@ -29,6 +29,7 @@ wheels/
 # Notebooks Jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+teste.ipynb
 
 # Arquivos de IDE
 .idea/
@@ -80,3 +81,7 @@ temp/
 # Exceto imagens específicas do projeto
 !data/trecho_tabela_dado_bruto.png
 !*/trecho_tabela_dado_bruto.png
+
+# Pastas
+notebooks
+models
