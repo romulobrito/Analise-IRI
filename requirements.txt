@@ -57,9 +57,11 @@ scipy>=1.7.0         # Estatísticas (randint, uniform)
 matplotlib>=3.4.0    # Visualização de dados básica
 seaborn>=0.11.0     # Visualização estatística avançada
 
-# Processamento de PDF
+# Processamento de PDF e Imagem
 camelot-py>=0.9.0   # Extração de tabelas de PDF
+opencv-python>=4.5.0 # Dependência do camelot
 pdfplumber>=0.9.0   # Processamento de PDF
+ghostscript>=0.7     # Dependência do camelot
 
 # Machine Learning
 scikit-learn>=1.0.0  # RandomForest, IsolationForest, métricas
