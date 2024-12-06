@@ -8,10 +8,10 @@ matplotlib~=3.9.2    # Visualização de dados básica
 seaborn~=0.13.2     # Visualização estatística avançada
 
 # Processamento de PDF e Imagem
-camelot-py      # Extração de tabelas de PDF
+camelot-py[cv]      # Extração de tabelas de PDF
 opencv-python~=4.10.0.84  # Processamento de imagem
 pdfplumber~=0.11.4  # Processamento de PDF
-ghostscript~=0.7    # Dependência do camelot
+ghostscript    # Dependência do camelot
 
 
 
